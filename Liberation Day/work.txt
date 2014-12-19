@@ -1,0 +1,12 @@
+Liberation Day:
+
+  Work to be done:
+    1. Map
+	  i. Grid System
+	  ii. Terrain
+	2. Units
+	  i. Standard units
+	  ii. Hero units
+	3. Battle system
+	4. Movement/Controls
+	5. AI
