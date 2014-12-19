@@ -7,7 +7,3 @@ Game ideas:
   CO units
   
   sci-fi
-
-2. Pandemic
-
-  religious
