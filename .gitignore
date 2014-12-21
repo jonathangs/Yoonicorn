@@ -2,3 +2,9 @@ LiberationDay/Library/metadata/
 LiberationDay/Library/CurrentLayout.dwlt
 LiberationDay/Library/expandedItems
 LiberationDay/Library/guidmapper
+
+# not sure why these got changed, but I'm adding them to the ignore list
+LiberationDay/Assets/TK2DROOT/
+LiberationDay/Library/ShaderCache/
+*.meta
+*.meta
